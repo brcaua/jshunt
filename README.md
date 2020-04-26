@@ -1,3 +1,41 @@
+   
+                                                                                                     
+<h1 align="center">JS Hunt </h1>
+
+<p align="center" aria-label="Versão do Node" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.14.1">
+    <img src="https://img.shields.io/badge/node.js@lts-12.14.1-informational?logo=Node.JS"></img>
+    <img src="https://img.shields.io/github/repo-size/brcaua/jshunt"></img>
+    <img src="https://img.shields.io/github/contributors/brcaua/jshunt"></img>
+</p>
+
+
+## Pré requisitos
+
+Antes de começar, você deve ter os seguintes requisitos:
+<!--- These are just example requirements. Add, duplicate or remove as required --->
+* Você ter instalado a última versão do `node`
+* Você ter uma máquina `Windows/Linux/Mac`.
+* Você ter instalado o editor de código `VSCode` (não é obrigatório).
+
+## :rocket: Tecnologias
+
+[ReactJS](https://pt-br.reactjs.org/)
+| [NodeJS](https://nodejs.org/)
+| [React-Router-DOM](https://reacttraining.com/react-router/web)
+| [LESS CSS](http://lesscss.org/)
+| [API Node](https://nodejs.org/docs/latest/api/)
+
+
+## Projeto
+
+
+<img align="center" src="https://github.com/brcaua/jshunt/blob/master/assets/main-page.png"></img>
+
+<img align="center" src="https://github.com/brcaua/jshunt/blob/master/assets/product-info.png"></img>
+
+
+## Instructions to use the project
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
